@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/file.png</file>
+        <file>image/settings.png</file>
+        <file>image/cancal.png</file>
+        <file>image/left.png</file>
+        <file>image/play.png</file>
+        <file>image/right.png</file>
+        <file>image/reset.png</file>
+        <file>sound/merge.wav</file>
+        <file>sound/move.wav</file>
+        <file>sound/split1.wav</file>
+        <file>sound/split2.wav</file>
+    </qresource>
+</RCC>
